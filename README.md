@@ -1,2 +1,3 @@
 # Repaso-Phyton
 Esto es un repaso de programacion en phyton
+Python es un lenguaje de programación interpretado, de alto nivel y propósito general, conocido por su sintaxis sencilla y clara que facilita el aprendizaje y la escritura de código. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python es ampliamente utilizado en diversos campos como desarrollo web, análisis de datos, inteligencia artificial, automatización, y más, gracias a su gran comunidad y a la abundancia de bibliotecas y recursos disponibles. Su filosofía promueve la legibilidad del código y la productividad del programador, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados.
